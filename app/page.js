@@ -148,7 +148,7 @@ export default function Home() {
     text-left
   ">
     {/* 핵심 한 줄 */}
-<p className="text-2xl text-gray-900 leading-relaxed text-center">
+<p className="mt-4 text-lg text-gray-600">
   I have{" "}
   <span className="font-semibold text-rose-600">2+ years</span>{" "}
   of communication experience <br/> and{" "}
